@@ -4,7 +4,7 @@
 Nesse repositorio será alocado todas as atividades praticas relacionadas ao modulo de revisão de Python do bootcamp Avanti do [Instituto Atlantico](https://www.atlantico.com.br/). 
 ## Roadmap
 
-- Variaveis e Operadores
+- [Variaveis e Operadores](https://github.com/oderlanfreire/revisaopythonavanti/tree/main/Variaveis_e_Operadores)
 - Estrutura de Repetição e Seleção
 - Coleções
 - Modulos e Funções:
